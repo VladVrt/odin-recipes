@@ -1,0 +1,16 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    background-color:rgb(228, 224, 224);
+}
+
+.title{
+    font-weight: 200;
+}
+.title, .recipes {
+    text-align: center;
+}
+
+.recipes {
+    color:rgb(124, 21, 81);
+    background-color: cornsilk;
+}
